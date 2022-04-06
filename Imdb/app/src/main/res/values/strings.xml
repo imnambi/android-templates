@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_favorite">favorite</string>
+    <string name="movie_list_title">Movie list</string>
+    <string name="title_text">Title</string>
+    <string name="menu_more">more</string>
+    <string name="menu_content_description_search">Search to filter the item</string>
+    <string name="menu_content_description_favorite">mark us favorites</string>
+    <string name="menu_content_description_more">popup menu</string>
+    <string name="movie_content">movie content</string>
+</resources>
