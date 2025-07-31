@@ -44,6 +44,7 @@ dependencies {
     implementation libs.androidx.room.paging
     implementation libs.moshi
     implementation libs.coil
+    implementation libs.androidx.security.crypto
     kapt libs.androidx.room.compiler
     kapt libs.hilt.android.compiler
     kapt libs.moshi.kapt
